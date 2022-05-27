@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Computational Learning"
+title: "Mentor profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Junxiao Xue (1982- ), Ph.D., a native of Nanyang, Henan Province, Associate Professor and Master's Supervisor of the School of Cyberspace Security, Zhengzhou University, Member of ACM and IEEE, Member of CCF Special Committee on Virtual Reality and Visualization, Member of CCF Special Committee on Computer-Aided Design and Graphics, Member of CICC Special Committee on Virtual Reality and Human-Computer Interaction, Teaching Pioneer of Henan Province, Young Backbone Teacher of Henan Province, Outstanding Classroom Teacher of Zhengzhou University. Visiting scholar at San Diego State University and Cali University, Colombia, USA. Published more than 50 papers in Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Computational Social Systems (TCSS), Science China-Information Sciences (SCIS), Frontiers of IT & EE ( Chinese Academy of Engineering Journal), Computers & Graphics, Information Processing & Management, Journal of Computer-Aided Geometric Design and Graphics, etc and authorized two national invention patents. Serves as a reviewer for IEEE Transactions on Multimedia (TMM), The Visual Computer (TVC), Neurocomputing, Journal of Computer-Aided Design and Graphics, and as publicity chair for ISMAR 2019, IEEE ICVRV 2017, and IEEE ICVRV 2018.
 
-薛均晓（1982-），博士，河南南阳人，郑州大学网络空间安全学院副教授、硕士生导师，ACM、IEEE会员，CCF虚拟现实与可视化专委会委员，CCF计算机辅助设计与图形学专委会委员，CICC虚拟现实与人机交互专业委员会委员，河南省教学标兵，河南省青年骨干教师，郑州大学优秀班主任。美国圣地亚哥州立大学(San Diego State University)、哥伦比亚卡利大学(Cali University)访问学者。主要研究方向为人工智能、虚拟现实、社交媒体计算，在 Transactions on Knowledge and Data Engineering (TKDE)、IEEE Transactions on Computational Social Systems (TCSS)、Science China-Information Sciences (SCIS)、 Frontiers of IT & EE (中国工程院院刊)、Computers & Graphics、Information Processing & Management、计算机辅助几何设计与图形学学报等国内外期刊和会议上发表论文50余篇，授权国家发明专利2项。担任IEEE Transactions on Multimedia (TMM)、The Visual Computer (TVC)、Neurocomputing、计算机辅助设计与图形学学报等期刊审稿人，担任ISMAR 2019、IEEE ICVRV 2017、IEEE ICVRV 2018宣传主席。
----
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
