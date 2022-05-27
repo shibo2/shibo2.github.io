@@ -25,6 +25,22 @@ Representative Research Projects
 1. National Natural Science Foundation of China Youth Science Foundation Project, 61402420, Research on Image Enhancement Technology for High Definition Display, 2015/01-2017/12, Main Participant (2nd).
 1. National Natural Science Foundation of China Youth Science Foundation Project, 10801023, Research and Application of Curved Surface Interpolation in Computational Geometry, 2009/01-2011/12, Main Participant (4nd).
 
+Representative publications
+------
+1. Yafei Li, Rui Chen, Shangwei Guo, Junxiao Xue, Mingliang Xu. Efficient Top-k Matching for Publish/Subscribe Ride Hitching. IEEE Transactions on Knowledge and Data Engineering, 2021. (SCI, CCF-A, 一区, IF=6.977)
+2. Pei Lv, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue. Agent-Based Campus Novel Coronavirus Infection and Control Simulation, IEEE Transactions on Computational Social Systems, 2021. (SCI)
+3. Junxiao Xue, Mingchuang Zhang, Mingliang Xu. Modelling the Impact of Social Distancing on the COVID-19 Pandemic in a Low Transmission Setting, IEEE Transactions on Computational Social Systems, 2021. (SCI)
+4. Junxiao Xue, Yabo Wang, Lei Shi, Lin Wei. Detecting Fake News by Exploring the Consistency of Multimodal Data. Information Processing & Management, 2021. (SCI, 一区, IF=6.222)
+5. Junxiao Xue, Yabo Wang, et al. MVFNN: Multi-Vision Fusion Neural Network for Fake News Picture Detection. Computer Animation and Social Agents. CASA 2020, vol 1300. Springer. (CCF-C, EI)
+6. Junxiao Xue, Hui Yin, et al. Crowd queuing simulation with an improved emotional contagion model[J], Science China Information Sciences, 2019, 62(4): 44101. (SCI, 一区, IF=4.380)
+7. Junxiao Xue, Chenyang Sun, et al. Wheat ear growth modeling based on a polygon[J], Frontiers of Information Technology & Electronic Engineering, 2019, 20(9):1175-1184. (SCI, 二区, IF=3.10)
+8. Junxiao Xue, Qingbin Li, et al. Parameterization of triangulated surface meshes based on constraints of distortion energy optimization[J], Journal of Visual Languages & Computing, 2018, 46: 53-62. (SCI, 三区, IF=1.62)
+9. Mingyuan Li, Xiaoheng Jiang, Ningbo Gu, Weiwei Xu, Junxiao Xue, Bing Zhou, Mingliang Xu. Disassembling a 3D mechanism for efficient packing[J], Computer Animation and Virtual Worlds, 2018, e1861. (SCI, 三区, IF=2.10)
+10. Mingliang Xu, Ningbo Gu, Weiwei Xu, Mingyuan Li, Junxiao Xue, Bing Zhou. Mechanical Assembly Packing Problem using Joint Constraints[J], Journal of Computer Science and Technology, 2017, 32(6): 1162–1171. (SCI, 二区, IF=3.20)
+11. Jianlei Li, Junxiao Xue, Xiaoyan Li, A note on the relaxed Newton-like method for nonsymmetric algebraic Riccati equation[J], Journal of Computational Analysis and Applications, 2014, 574-578. (SCI, 三区, IF=1.20)
+12. Zhongxuan Luo and Junxiao Xue, Layered deformation of solid model using conformal mapping[J], Computers & Graphics, 2008, 32(6): 695-703. (SCI, 二区, IF= 1.936)
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
