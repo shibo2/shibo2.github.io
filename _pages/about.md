@@ -55,7 +55,20 @@ English Literature:
 11. 任两品, 薛均晓*, 张朝阳, 王定标. 基于Mobius变换的复有理圆弧样条[J]. 郑州大学学报(工学版),2017,38(06):50-53+58. (中文核心)
 12. 薛均晓, 罗钟铉. 三角网格的能量优化参数化方法[J]. 计算机辅助设计与图形学学报, 2009, 21(010):1472-1479. (中国计算机学会A类期刊，T1，EI)
 
+Introduction to the Subject Group
+------
+CCL —— Center for Computational Learning at ZZU
+
+　　A normal tinkering innovation is like a worm coming out of the bottom of a bamboo, it has to penetrate section by section before it can eventually crawl out, this is called a vertical exit.
+　　Disruptive innovation is like a worm coming out by punching a hole through the side of the bamboo, without having to punch through section by section, which is called a horizontal exit.
+　　The central problem of computational learning: Formalisation - the aim of all science, whether natural or social, is to reconcile our experiences with each other and to integrate them into a logical system!
+
+I. Methods: 1. Deep Reinforcement Learning; 2. Multimodal Computing; 3. Swarm Intelligence.
+II. Technical Paths: Algorithms + Application Scenarios -> Data Parsing, Visualisation, Simulation and Deduction, Autonomous Decision-making.
+III. Application Scenarios: DC, Social Governance, etc.
+
 Contact Information
 ------
 Phone: 0371-63887286
+
 Email: xuejx@zzu.edu.cn
