@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junxiao Xue"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor of Computer Science, Zhengzhou University"
   location         : "Zhengzhou"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -245,7 +245,7 @@ defaults:
       author_profile: true
       share: true
 
-# Sass/SCSS 
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
