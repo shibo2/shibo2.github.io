@@ -27,6 +27,7 @@ Representative Research Projects
 
 Representative publications
 ------
+English Literature:
 1. Yafei Li, Rui Chen, Shangwei Guo, Junxiao Xue, Mingliang Xu. Efficient Top-k Matching for Publish/Subscribe Ride Hitching. IEEE Transactions on Knowledge and Data Engineering, 2021. (SCI, CCF-A, 一区, IF=6.977)
 2. Pei Lv, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue. Agent-Based Campus Novel Coronavirus Infection and Control Simulation, IEEE Transactions on Computational Social Systems, 2021. (SCI)
 3. Junxiao Xue, Mingchuang Zhang, Mingliang Xu. Modelling the Impact of Social Distancing on the COVID-19 Pandemic in a Low Transmission Setting, IEEE Transactions on Computational Social Systems, 2021. (SCI)
@@ -40,28 +41,18 @@ Representative publications
 11. Jianlei Li, Junxiao Xue, Xiaoyan Li, A note on the relaxed Newton-like method for nonsymmetric algebraic Riccati equation[J], Journal of Computational Analysis and Applications, 2014, 574-578. (SCI, 三区, IF=1.20)
 12. Zhongxuan Luo and Junxiao Xue, Layered deformation of solid model using conformal mapping[J], Computers & Graphics, 2008, 32(6): 695-703. (SCI, 二区, IF= 1.936)
 
+中文文献：
 1. 薛均晓, 徐明亮等. 面向航空母舰电子显灵板的多智能体建模技术研究进展[J]. 计算机辅助设计与图形学学报, 2021,33(10):1475-1485. (中国计算机学会A类期刊，T1，EI)
-
 2. 薛均晓, 孔祥燕, 郭毅博等. 基于深度强化学习的舰载机动态避障方法[J]. 计算机辅助设计与图形学学报, 2021, 33(07): 1102-1112. (中国计算机学会A类期刊，T1，EI)
-
 3. 薛均晓, 黄世博, 王亚博，石磊 TSTNet：基于时空特征的语音情感识别[J]. 郑州大学学报(工学版),2021. (中文核心)
-
 4. 薛均晓, 程君进, 张其斌, 郭毅博等. 改进轻量级卷积神经网络的复杂场景口罩佩戴检测方法[J]. 计算机辅助设计与图形学学报, 2021,33(07): 1045-1054. (中国计算机学会A类期刊，T1，EI)
-
 5. 郭毅博, 牛猛, 王海迪,陈艳华, 薛均晓等. 基于生成对抗网络的飞机燃油数据缺失值填充方法[J]. 浙江大学学报(理学版),2021,48(04):402-409. (中文核心)
-
 6. 郭毅博, 孟文化, 范一鸣,侯 立硕, 袁玥, 薛均晓, 徐明亮. 基于可穿戴传感器数据的人体行为识别数据特征提取方法[J]. 计算机辅助设计与图形学学报, 2021, 33(08): 1246-1253. (中国计算机学会A类期刊，T1，EI)
-
 7. 甘宇祥, 王亚博, 薛均晓*, 张若琪, 许书宁, 郭毅博. 基于情感特征的新冠肺炎疫情舆情演化分析[J]. 图学学报, 2021, 42(02): 222-229. (T3)
-
 8. 李庆宾,毛北行,薛均晓.分数阶不确定多混沌系统的自适应滑模同步[J]. 数学的实践与认识, 2021,51(06):199-205. (中文核心)
-
 9. 黄文峰, 于海玉, 薛均晓等.基于计算机视觉的飞机燃油非接触式测量系统[J]. 图学学报, 2019, 040(003):466-472. (T3)
-
 10. 薛均晓, 孙晨阳等. 基于Bezier曲面的麦穗生长建模研究[J]. 系统仿真学报, 2018, 030(007):2475-2481. (中国计算机学会B类期刊, T2)
-
 11. 任两品, 薛均晓*, 张朝阳, 王定标. 基于Mobius变换的复有理圆弧样条[J]. 郑州大学学报(工学版),2017,38(06):50-53+58. (中文核心)
-
 12. 薛均晓, 罗钟铉. 三角网格的能量优化参数化方法[J]. 计算机辅助设计与图形学学报, 2009, 21(010):1472-1479. (中国计算机学会A类期刊，T1，EI)
 
 
