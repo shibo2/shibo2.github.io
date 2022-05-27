@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Layered deformation of solid model using conformal mapping"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2008-09-25
+venue: 'Computers & Graphics'
+paperurl: 'http://shibo2.github.io/files/2018_Layered_deformation_of_solid_model_using_conformal_mapping.pdf'
+citation: 'Luo Z, Xue J. Layered deformation of solid model using conformal mapping[J]. Computers & Graphics, 2008, 32(6): 695-703.'
 ---
+
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: [Luo Z, Xue J. Layered deformation of solid model using conformal mapping[J]. Computers & Graphics, 2008, 32(6): 695-703.](http://shibo2.github.io/files/2018_Layered_deformation_of_solid_model_using_conformal_mapping.pdf)

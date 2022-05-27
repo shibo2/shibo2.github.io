@@ -64,7 +64,9 @@ CCL —— Center for Computational Learning at ZZU
 　　The central problem of computational learning: Formalisation - the aim of all science, whether natural or social, is to reconcile our experiences with each other and to integrate them into a logical system!
 
 I. Methods: 1. Deep Reinforcement Learning; 2. Multimodal Computing; 3. Swarm Intelligence.
+
 II. Technical Paths: Algorithms + Application Scenarios -> Data Parsing, Visualisation, Simulation and Deduction, Autonomous Decision-making.
+
 III. Application Scenarios: DC, Social Governance, etc.
 
 Contact Information
