@@ -1,16 +1,27 @@
 ---
 permalink: /
-title: "Home page"
+title: "Mentor Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 
-Mentor profile
-------
+
 Junxiao Xue (1982- ), Ph.D., a native of Nanyang, Henan Province, Associate Professor and Master's Supervisor of the School of Cyberspace Security, Zhengzhou University, Member of ACM and IEEE, Member of CCF Special Committee on Virtual Reality and Visualization, Member of CCF Special Committee on Computer-Aided Design and Graphics, Member of CICC Special Committee on Virtual Reality and Human-Computer Interaction, Teaching Pioneer of Henan Province, Young Backbone Teacher of Henan Province, Outstanding Classroom Teacher of Zhengzhou University. Visiting scholar at San Diego State University and Cali University, Colombia, USA. Published more than 50 papers in Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Computational Social Systems (TCSS), Science China-Information Sciences (SCIS), Frontiers of IT & EE ( Chinese Academy of Engineering Journal), Computers & Graphics, Information Processing & Management, Journal of Computer-Aided Geometric Design and Graphics, etc and authorized two national invention patents. Serves as a reviewer for IEEE Transactions on Multimedia (TMM), The Visual Computer (TVC), Neurocomputing, Journal of Computer-Aided Design and Graphics, and as publicity chair for ISMAR 2019, IEEE ICVRV 2017, and IEEE ICVRV 2018.
 
+Main Research Fields
+------
+Artificial Intelligence, Virtual Reality, Social Media Computing
+
+Representative Research Projects
+------
+1. Key Research Project of Henan Higher Education Institution, 18A413002, Research on desktop-level 3D printing data processing middleware software, 2018/01-2019/12, Chair.
+1. Henan Provincial Natural Science Foundation Project, 162300410262, Preference-aware Porcelain Visualization Design, 2017/01-2019/12, Chair.
+1. Henan Provincial Science and Technology Department Science and Technology Tackling Project, 162102310526, Research on digital geometry processing technology for desktop-level 3D printing, 2016/03-2019/03, Chair.
+1. Henan University Science and Technology Innovation Team Support Program, 16IRTSTHN027, Intelligent Information Technology and Equipment, 2016/03-2019/03, Main Participant (2nd).
+1. National Natural Science Foundation of China Youth Science Foundation Project, 61402420, Research on Image Enhancement Technology for High Definition Display, 2015/01-2017/12, Main Participant (2nd).
+1. National Natural Science Foundation of China Youth Science Foundation Project, 10801023, Research and Application of Curved Surface Interpolation in Computational Geometry, 2009/01-2011/12, Main Participant (4nd).
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
