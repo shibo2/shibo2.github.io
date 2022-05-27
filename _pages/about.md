@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Mentor profile"
+title: "Home page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
+Mentor profile
+------
 Junxiao Xue (1982- ), Ph.D., a native of Nanyang, Henan Province, Associate Professor and Master's Supervisor of the School of Cyberspace Security, Zhengzhou University, Member of ACM and IEEE, Member of CCF Special Committee on Virtual Reality and Visualization, Member of CCF Special Committee on Computer-Aided Design and Graphics, Member of CICC Special Committee on Virtual Reality and Human-Computer Interaction, Teaching Pioneer of Henan Province, Young Backbone Teacher of Henan Province, Outstanding Classroom Teacher of Zhengzhou University. Visiting scholar at San Diego State University and Cali University, Colombia, USA. Published more than 50 papers in Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Computational Social Systems (TCSS), Science China-Information Sciences (SCIS), Frontiers of IT & EE ( Chinese Academy of Engineering Journal), Computers & Graphics, Information Processing & Management, Journal of Computer-Aided Geometric Design and Graphics, etc and authorized two national invention patents. Serves as a reviewer for IEEE Transactions on Multimedia (TMM), The Visual Computer (TVC), Neurocomputing, Journal of Computer-Aided Design and Graphics, and as publicity chair for ISMAR 2019, IEEE ICVRV 2017, and IEEE ICVRV 2018.
 
 
