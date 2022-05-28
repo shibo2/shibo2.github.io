@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /News/
+title: "TEAM"
+permalink: /Team/
 author_profile: true
 redirect_from:
   - /resume
