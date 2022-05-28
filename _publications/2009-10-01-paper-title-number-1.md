@@ -9,4 +9,4 @@ venue: 'Computers & Graphics'
 #citation: 'Luo Z, Xue J. Layered deformation of solid model using conformal mapping[J]. Computers & Graphics, 2008, 32(6): 695-703.'
 ---
 
-Cite: Luo Z, Xue J. Layered deformation of solid model using conformal mapping[J]. Computers & Graphics, 2008, 32(6): 695-703. [PDF](http://shibo2.github.io/files/2018_Layered_deformation_of_solid_model_using_conformal_mapping.pdf) | [Code](http://shibo2.github.io)
+Cite: Luo Z, Xue J. Layered deformation of solid model using conformal mapping[J]. Computers & Graphics, 2008, 32(6): 695-703. [PDF](http://shibo2.github.io/files/2018_Layered_deformation_of_solid_model_using_conformal_mapping.pdf) \| [Code](http://shibo2.github.io)
