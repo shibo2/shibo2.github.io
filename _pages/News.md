@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "NEWS"
 permalink: /News/
 author_profile: true
 redirect_from:
