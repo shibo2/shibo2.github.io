@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /News/
+title: "LAB OPENNING"
+permalink: /Lab_openning/
 author_profile: true
 redirect_from:
   - /resume
