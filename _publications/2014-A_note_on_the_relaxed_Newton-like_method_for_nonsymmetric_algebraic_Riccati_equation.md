@@ -9,4 +9,4 @@ venue: 'Journal of Computational Analysis & Applications'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-Cite: Li J L, Xue J X, Li X Y. A note on the relaxed Newton-like method for nonsymmetric algebraic Riccati equation[J]. Journal of Computational Analysis & Applications, 2014, 17(3). [PDF]()
+Cite: Li J L, Xue J X, Li X Y. A note on the relaxed Newton-like method for nonsymmetric algebraic Riccati equation[J]. Journal of Computational Analysis & Applications, 2014, 17(3).  \| [PDF]()
