@@ -33,6 +33,7 @@ redirect_from:
 
 ## Image Location
 ![avatar](../images/bio-photo.jpg)&emsp;![avatar](../images/bio-photo.jpg)
+
 孙晨阳&emsp;孙晨阳
 
 ## Resources
