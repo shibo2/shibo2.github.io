@@ -32,7 +32,9 @@ redirect_from:
   * No icon: not built
 
 ## Image Location
-![avatar](../images/bio-photo.jpg)&emsp;![avatar](../images/yinhui.jpg)
+![avatar](../images/yuhaiyu.png)&emsp;![avatar](../images/yinhui.png)
+
+![avatar](../images/sunchenyang.png)&emsp;![avatar](../images/chengjunjin.png)
 
 孙晨阳&emsp;孙晨阳
 
