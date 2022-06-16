@@ -32,7 +32,7 @@ redirect_from:
   * No icon: not built
 
 ## Image Location
-![avatar](../images/bio-photo.jpg)&emsp;![avatar](../images/foo-bar-identity-th.jpg)
+![avatar](../images/bio-photo.jpg)&emsp;![avatar](../images/yinhui.jpg)
 
 孙晨阳&emsp;孙晨阳
 
