@@ -32,11 +32,23 @@ redirect_from:
   * No icon: not built
 
 ## Image Location
-![avatar](../images/yuhaiyu.png)&emsp;![avatar](../images/yinhui.png)
+![avatar](../images/sunchenyang.png)&emsp;![avatar](../images/yinhui.png)
 
-![avatar](../images/sunchenyang.png)&emsp;![avatar](../images/chengjunjin.png)
+Chenyang Sun (孙晨阳)&emsp;&emsp;Hui Yin (殷辉)
 
-孙晨阳&emsp;孙晨阳
+哈尔滨工业大学(深圳)&emsp;&emsp;2016级，现就职于中国建设银行深圳市分行
+
+![avatar](../images/yuhaiyu.png)
+
+Haiyu Yu (于海玉)
+
+2017级，现定居于北京
+
+![avatar](../images/chengjunjin.png)
+
+Junjin Cheng (程君进)
+
+2018级，现就职于新郑市人大常委会
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
