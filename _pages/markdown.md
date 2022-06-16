@@ -31,6 +31,9 @@ redirect_from:
   * Red X: error
   * No icon: not built
 
+## Image Location
+![avatar](../images/bio-photo.jpg)
+
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
